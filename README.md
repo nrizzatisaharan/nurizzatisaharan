@@ -1,7 +1,6 @@
 
 #          READ ME
 
-
 Group Cartoon Maniac
 Prepared by	: 
 1) Syazwana Izzati bt Azaddin       (1713650)
@@ -24,11 +23,18 @@ A list of completed products (at least 8 videos per cartoons) will be displayed 
 Table 1 Group Contribution 
 
 3. Use of third party resources 
-Graphics: Team members Syazwana and Izzati obtained all graphics for the fonts from https://fonts.google.com a website for variable stock of beautiful fonts. Besides, Izzati input all the videos from https://www.youtube.com and display it on our website to ease people’s view.
+Graphics: Team members Syazwana and Izzati obtained all graphics for the fonts from https://fonts.google.com a website for variable stock of beautiful fonts. Besides, Izzati input all the videos from https://www.youtube.com and display it on our website to ease people’s view. Lastly, both team members are using Google image for the images from https://images.google.com/ in every website.
+
+| Web Elements  | Team members  | 	Modification  | 
+|---|---|---|
+| Graphics for all web pages  | 	<li>Syazwana</li> <li> Izzati</li><li> All graphics are resized using css</li> | 
 
 References 
 Graphic Google Fonts. Retrieved 27 October 2018 from
 <br> https://fonts.google.com/ 
+
+Graphic Google Image. Retrieved 29 October 2018 from
+<br> https://images.google.com/
 
 Youtube site. Retrieved 28 October 2018 from 
 <br> https://youtube.com 
