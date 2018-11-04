@@ -18,8 +18,8 @@ A list of completed products (at least 8 videos per cartoons) will be displayed 
 
 | Name  | Contributions  | 	Future enhancement  | 
 |---|---|---|
-| Syazwana  | 	•	Main pages: Home page, About us and Services	• Sub page: Short Video Clip 	• Web elements: Logo  |  •	More user interactions •	Slideshow timer •	Add a chat box and a pop out site •	JavaScript event handlers for searching and storage of data using JSON •	All photos are saved as web images | 
-| Izzati  |  •	Main pages: Malay Cartoon, English Cartoon and Anime •	Sub page: Kampung Boy, Pingu, etc •	Web elements: Videos | 	•	Add more videos • User-friendly sitemap buttons •	Add comment box •	Slideshow timer •	All photos are saved as web images  | 
+| Syazwana  | 	<li>Main pages: Home page, About us and Services</li> <li> Sub page: Short Video Clip </li></li> 	Web elements: Logo </li> | <li>	More user interactions</li><li>	Slideshow timer</li><li> Add a chat box and a pop out site </li><li>JavaScript event handlers for searching and storage of data using JSON</li><li> All photos are saved as web images</li> | 
+| Izzati  | <li>	Main pages: Malay Cartoon, English Cartoon and Anime </li><li> Sub page: Kampung Boy, Pingu, etc </li><li> Web elements: Videos</li> | <li>	Add more videos</li> <li> User-friendly sitemap buttons </li><li>Add comment box </li><li>Slideshow timer </li><li>All photos are saved as web images </li> | 
 
 Table 1 Group Contribution 
 
@@ -28,20 +28,20 @@ Graphics: Team members Syazwana and Izzati obtained all graphics for the fonts f
 
 References 
 Graphic Google Fonts. Retrieved 27 October 2018 from
-https://fonts.google.com/ 
+<br> https://fonts.google.com/ 
 
 Youtube site. Retrieved 28 October 2018 from 
-https://youtube.com 
+<br> https://youtube.com 
 
 w3schools Web Tutorial. Retrieved 25 October 2018 from
-https://www.w3schools.com/ 
+<br> https://www.w3schools.com/ 
 
 Synopsis Wikipedia site. Retrieved 1 November 2018 from
-https://en.wikipedia.org/wiki/Doraemon 
-https://en.wikipedia.org/wiki/The_Kampung_Boy 
-https://en.wikipedia.org/wiki/Upin_%26_Ipin 
-https://en.wikipedia.org/wiki/We_Bare_Bears 
-https://en.wikipedia.org/wiki/Pingu 
-https://kissanime.ac/Anime/One-Piece.27867/ 
+<br>https://en.wikipedia.org/wiki/Doraemon 
+<br>https://en.wikipedia.org/wiki/The_Kampung_Boy 
+<br>https://en.wikipedia.org/wiki/Upin_%26_Ipin 
+<br>https://en.wikipedia.org/wiki/We_Bare_Bears 
+<br>https://en.wikipedia.org/wiki/Pingu 
+<br>https://kissanime.ac/Anime/One-Piece.27867/ 
 
 
